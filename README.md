@@ -1,5 +1,5 @@
 ### Hi, I'm Alex 👋
-
+I'm an Android Mobile Developer/Programmer. But I also know iOS a litte as a cross-platform Flutter developer. I have an experience in Java, Kotlin. I'm currently working as a full-time Flutter developer.
 <!--
 **Valexus110/Valexus110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
